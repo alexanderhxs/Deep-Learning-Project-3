@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/236157430189849075
+creation_time: 1733847234065
+experiment_id: '236157430189849075'
+last_update_time: 1733847234065
+lifecycle_stage: active
+name: (Variational)Autoencoders/GANs
